@@ -1,0 +1,20 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="602" width="802" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <ellipse stroke-dasharray="5,2,2,2,2,2" ry="212.84253" rx="215.5453" id="svg_18" cy="299.3243" cx="394.5945" fill-opacity="null" stroke-width="4" stroke="#73baa4" fill="none"/>
+  <line stroke="#e27d60" transform="rotate(-0.18988186120986938 490.5525817871053,65.59185791015373) " stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_8" y2="148.28942" x2="450.48455" y1="-17.10571" x1="530.62067" stroke-width="40" fill="none"/>
+  <line stroke="#e27d60" transform="rotate(48.30493927001953 379.7452087402344,144.1926727294922) " stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_13" y2="214.32238" x2="326.79986" y1="74.06299" x1="432.6906" stroke-width="40" fill="none"/>
+  <line stroke="#e27d60" transform="rotate(48.30493927001953 320.8563232421875,196.41493225097653) " stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_14" y2="195.8466" x2="252.02367" y1="196.98326" x1="389.68897" stroke-width="40" fill="none"/>
+  <line stroke="#e27d60" transform="rotate(48.30493927001953 321.1473083496094,292.4841613769531) " stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_15" y2="215.34221" x2="299.18223" y1="369.62651" x1="343.11246" stroke-width="40" fill="none"/>
+  <line stroke="#e27d60" transform="rotate(48.30493927001953 385.0712280273438,383.62353515625) " stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_16" y2="299.30068" x2="479.69289" y1="467.94642" x1="290.44954" stroke-width="40" fill="none"/>
+  <line stroke="#e27d60" transform="rotate(44.22736740112305 511.35324096679676,517.1362915039064) " stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_17" y2="602.10643" x2="619.31272" y1="432.16612" x1="403.39369" stroke-width="40" fill="none"/>
+ </g>
+</svg>

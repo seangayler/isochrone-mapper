@@ -1,0 +1,90 @@
+@import '../variables.css';
+
+@keyframes slideInFromTop {
+  0% {
+      transform: translateY(-100%);
+  }
+  100% {
+      transform: translateY(0);
+  }
+}
+
+.home {
+  animation: 1s ease-out 0s 1 slideInFromTop;
+  position: relative;
+  z-index: 1;
+}
+
+.home-tabs {
+  width: var(--max-width);
+  margin: 0 auto;
+  display: flex;
+  height: 100%;
+  background-color: var(--theme-red);
+}
+
+.home__left {
+  width: 272px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.home__right {
+  height: 100%;
+  width: 488px;
+  color: #fff;
+  padding: 20px;
+  font-size: 1.2rem;
+}
+
+.home__tab {
+  height: 75px;
+  border: none;
+  font-size: 1.2rem;
+  background-color: var(--theme-green);
+}
+
+.home__tab--activated {
+  background-color: var(--theme-red);
+  color: #fff;
+}
+
+.home__tab:hover {
+  background-color: var(--theme-red);
+  color: #fff;
+  cursor: pointer;
+}
+
+.home__tab:focus {
+  outline: none;
+}
+
+.home__graphic {
+  display: block;
+  width: 800px;
+  margin: 0 auto;
+}
+
+.home__footer {
+  width: 800px;
+  margin: 0 auto;
+}
+
+.home__footer__bar {
+  height: 50px;
+  width: 100%;
+  background-color: var(--theme-red);
+}
+
+.home__footer__green {
+  height: 600px;
+  width: 100%;
+  background-color: var(--theme-green);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: var(--theme-darkgreen);
+  font-size: 1.2rem;
+
+}

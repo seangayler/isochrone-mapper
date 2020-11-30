@@ -1,8 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Texturina:wght@100;600&display=swap');
 
 :root {
-  --theme-green: #41B3A3;
+  --theme-green: #73baa4;
   --theme-red: #E27D60;
+  --theme-darkgreen: #41B3A3;
   --max-width: 800px;
+}
+
+* {
   font-family: 'Texturina', serif;
+}
+
+.text-bold {
+  font-weight: 600;
 }
